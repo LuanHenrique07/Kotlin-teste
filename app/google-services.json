@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "477534204569",
+    "project_id": "kotlin-ips",
+    "storage_bucket": "kotlin-ips.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477534204569:android:cb3bec0cc8157f2e0efe08",
+        "android_client_info": {
+          "package_name": "com.example.kotlin_a1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmfI3H3aGZgVzUV_R1AWzE4R4B2AFmarc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
